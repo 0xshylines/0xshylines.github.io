@@ -4,7 +4,7 @@ date: 2026-03-10 00:00:00 +0300
 categories: [Research, Local Privilege Escalation]
 tags: [lpe, windows-security, exploitation, poc, writeup]
 image:
-  path: /assets/img/posts/lpe-analysis/step0.png
+  path: /assets/img/posts/lpe-analysis/step0.jpg
 ---
 
 ## Giriş: Bir Zafiyet Zincirinin Anatomisi
