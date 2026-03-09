@@ -25,3 +25,37 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# --- Jekyll & Build Files ---
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+vendor/
+
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# --- Node & Frontend ---
+node_modules/
+package-lock.json
+.eslintcache
+
+# --- Security & Sensitive Data (Kritik!) ---
+.env
+*.log
+*.bak
+*.tmp
+temp/
+# Eğer ham sızma testi notlarını tuttuğun bir klasör varsa buraya ekle:
+raw_notes/
+drafts/
+
+# --- Tools & Scripts ---
+# Kendi yazdığın ama pushlamak istemediğin scriptler varsa:
+scripts/private/
